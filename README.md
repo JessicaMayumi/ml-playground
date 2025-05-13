@@ -3,6 +3,6 @@ Um espaço de experimentação e aprendizado prático em Machine Learning, Intel
 
 ---
 ## Sobre as pastas:
-- ``experimentos: `` algoritmos de teste(ML)
-- ``EDA: `` algoritimos de Análise exploratória de Dados
-- ``Redes_Neurais: `` Notebooks documentando meus estudos mais aprofundados em Redes Neurais
+- ``experimentos:`` algoritmos de teste(ML)
+- ``EDA:`` algoritimos de Análise exploratória de Dados
+- ``Redes_Neurais:`` Notebooks documentando meus estudos mais aprofundados em Redes Neurais
